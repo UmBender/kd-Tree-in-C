@@ -1,0 +1,5 @@
+exe-main.o
+exe-main.i
+exe-main.s
+exe
+.ccls-cache
